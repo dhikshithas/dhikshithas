@@ -27,4 +27,7 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
 </p>
