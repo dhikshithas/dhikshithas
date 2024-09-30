@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dhikshitha
 
-<h3 align="center">A Passionate 2nd Year Computer Science Student at BIT</h3>
+<h3 align="center">A Passionate 3rd Year Computer Science Student at BIT</h3>
 
 - 🔭 Check out my [**portfolio**](https://github.com/dhikshithas)
 - 🌱 Currently diving into Data Structures and Algorithms
